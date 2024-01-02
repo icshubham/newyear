@@ -2,7 +2,7 @@
 :root {
   --all-animations-duration: 1.5s;
   --bgColor: red;
-  --color: black;
+  --color: rgb(255, 255, 255);
   --defaultAnimationState: running;
 }
 
